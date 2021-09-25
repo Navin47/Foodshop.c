@@ -94,5 +94,10 @@ int main (void)
   //final total printer as a bill
     
   return 0;
+	
 
 }
+
+
+
+//enjoy
